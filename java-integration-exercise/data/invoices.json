@@ -1,0 +1,15 @@
+[
+  {"id": "in_1", "customer_id": "cus_001", "currency": "usd", "status": "paid",
+   "line_items": [{"description": "Pro plan", "unit_amount": 4900, "quantity": 2}]},
+  {"id": "in_2", "customer_id": "cus_002", "currency": "inr", "status": "paid",
+   "line_items": [{"description": "Pro plan", "unit_amount": 415000, "quantity": 1}]},
+  {"id": "in_3", "customer_id": "cus_003", "currency": "eur", "status": "open",
+   "line_items": [{"description": "Starter plan", "unit_amount": 1840, "quantity": 1}]},
+  {"id": "in_4", "customer_id": "cus_004", "currency": "jpy", "status": "paid",
+   "line_items": [{"description": "Pro plan", "unit_amount": 7500, "quantity": 3}]},
+  {"id": "in_5", "customer_id": "cus_005", "currency": "gbp", "status": "paid",
+   "line_items": [{"description": "Starter plan", "unit_amount": 1580, "quantity": 1},
+                  {"description": "Add-on", "unit_amount": 395, "quantity": 2}]},
+  {"id": "in_6", "customer_id": "cus_001", "currency": "usd", "status": "void",
+   "line_items": [{"description": "Pro plan", "unit_amount": 4900, "quantity": 1}]}
+]

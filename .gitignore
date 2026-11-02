@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+target/
+cp.txt
+*.class
+.idea/
+.vscode/
